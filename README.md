@@ -1,5 +1,6 @@
 # 2019-432-syllabus
 
-Syllabus materials for PQHS 432 / CRSP 432 in Spring 2019 at CWRU
+This is the repository of syllabus materials for PQHS 432 / CRSP 432 in Spring 2019 with Professor Love at CWRU.
 
-View the syllabus at http://thomaselove.github.io/2019-432-syllabus
+To view or download the syllabus, visit http://thomaselove.github.io/2019-432-syllabus.
+
