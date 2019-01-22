@@ -1,5 +1,43 @@
 # Deliverables and Grading
 
-This section is coming soon.
+## Timing and Deadlines
 
 The [Calendar](https://github.com/THOMASELOVE/2019-432/blob/master/calendar.md) is the most up-to-date resource for all deadlines in the course.
+
+## Grading
+
+The final course grade is weighted as follows:
+
+- 15% Class Participation / Group Work / Minute Papers
+- 25% Six Homework Assignments
+- 25% Two Quizzes
+- 35% Two Projects, including the Final Portfolio Presentation
+
+A cut point to discriminate A vs. B will be set in the range of 85% to 90% at the end of the term. An average of 70% or higher is required to receive a B.
+
+## Participation in the Course
+
+Students are required to participate actively in the course, including meaningful contributions in group work, in-class and minute paper participation, emails to 431-help, visits to the TAs, etc.
+
+- We're more concerned about the breadth of your participation rather than just its quantity.
+- If you're having trouble asking questions, the best way to make a contribution is to find something interesting and share it with us, through 431-help.
+- Most students score between 80% and 100% on this element.
+
+## Homeworks
+
+There are 6 homework assignments this semester. 
+
+Details on those assignments are [posted on the Course Homework Page](https://github.com/THOMASELOVE/2019-432/tree/master/homework).
+
+## Quizzes
+
+Students are required to complete two quizzes, one in early March, and one in late April. 
+
+Details on the Quizzes are [posted on the Course Quizzes Page](https://github.com/THOMASELOVE/2019-432/tree/master/quizzes).
+
+## Projects
+
+Students are required to complete two project assignments, one completed in mid-March (at the end of Spring Break), and the other at the end of the term. 
+
+Details on the project assignments are [posted on the Course Projects Page](https://github.com/THOMASELOVE/2019-432/tree/master/projects).
+
